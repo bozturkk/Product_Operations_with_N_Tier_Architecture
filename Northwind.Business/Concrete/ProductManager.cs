@@ -13,10 +13,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//burada iş kuralları yazılır.
-// mesela birimi Ürün listesini görmeye uygun mu?
-//Ör: Bir bankacılık uygulamasında, bir kredi datasını görmek için kıstaslar,
-//mevzuata uygunlukla ilgili kodlar yazılabilir.
+
 
 namespace Northwind.Business.Concrete
 {
